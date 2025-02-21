@@ -8,7 +8,7 @@
 
 <h2> Certifications </h2>
 
-  - [Cybersecurity Bootcamp](https://imgur.com/a/dO8DVa5) 
+  - [Cybersecurity Bootcamp](https://i.imgur.com/8UObR7F.jpg)) 
   - Working on getting my ISC2 CC Certification and my CompTIA Security+ Certification
 
 <h2> 🤳 Connect with me:</h2>
